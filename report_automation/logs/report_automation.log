@@ -1,0 +1,20 @@
+2025-01-10 17:06:01,417 - Verifying GoDaddy SMTP connection...
+2025-01-10 17:06:05,509 - Connection test successful!
+2025-01-10 17:06:05,659 - Executing command: npx ts-node ./prisma/scripts/generateReport.ts
+2025-01-10 17:06:05,666 - Error generating report: [Errno 2] No such file or directory: 'npx'
+2025-01-10 17:06:05,666 - Failed to generate Excel report
+2025-01-13 23:48:07,034 - Verifying GoDaddy SMTP connection...
+2025-01-13 23:48:11,339 - Connection test successful!
+2025-01-13 23:48:11,494 - Executing command: npx ts-node /Users/rupinajay/Developer/Autoapplys.com/prisma/scripts/generateReport.ts
+2025-01-13 23:48:13,503 - Excel report generated successfully
+2025-01-13 23:48:27,726 - Email sent successfully with attachment: user_report.xlsx
+2025-01-13 23:50:33,586 - Verifying GoDaddy SMTP connection...
+2025-01-13 23:50:36,941 - Connection test successful!
+2025-01-13 23:50:37,103 - Executing command: npx ts-node /Users/rupinajay/Developer/Autoapplys.com/prisma/scripts/generateReport.ts
+2025-01-13 23:50:39,115 - Excel report generated successfully
+2025-01-13 23:50:53,250 - Email sent successfully with attachment: user_report.xlsx
+2025-01-14 08:32:52,627 - Verifying GoDaddy SMTP connection...
+2025-01-14 08:32:55,331 - Connection test successful!
+2025-01-14 08:32:55,483 - Executing command: npx ts-node /Users/rupinajay/Developer/Autoapplys.com/prisma/scripts/generateReport.ts
+2025-01-14 08:32:58,839 - Excel report generated successfully
+2025-01-14 08:33:07,338 - Email sent successfully to rupin.ajay@zyngate.com with attachment: user_report.xlsx
