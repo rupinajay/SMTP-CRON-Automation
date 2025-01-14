@@ -1,9 +1,0 @@
-{
-  "version": 2,
-  "builds": [
-    { "src": "report_automation/scripts/report_automation.py", "use": "@vercel/python" }
-  ],
-  "routes": [
-    { "src": "/(.*)", "dest": "report_automation/scripts/report_automation.py" }
-  ]
-}
